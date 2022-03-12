@@ -1,7 +1,7 @@
 global.hl = '.'   // prefix hl bot
 
-global.owner = ['6281649175378','6281649175378']
-global.mods = ['6281649175378']
+global.owner = ['6288239928939','6288220118685']
+global.mods = ['6288239928939']
 global.APIs = {
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
@@ -29,8 +29,8 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.packname = 'SH鑫'
-global.author = 'KAPTEN'
+global.packname = ''
+global.author = ''
 
 global.wait = '_Sedang diproses . . ._'
 global.error = '_Fitur Error !_'
